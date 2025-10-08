@@ -3,6 +3,7 @@ name = "libappindicator"
 version = "0.9.0"
 description = "Rust safe bindings for libappindicator"
 edition = "2021"
+repository = "https://github.com/tauri-apps/libappindicator-rs"
 license = "Apache-2.0 OR MIT"
 keywords = [ "linux", "gui", "gtk" ]
 
